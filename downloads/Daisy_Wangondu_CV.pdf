@@ -1,717 +1,80 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F3 9 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
-/Length 15314
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 42 792.6898 cm
-q
-.101961 .211765 .364706 rg
-BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 146.3553 0 Td (DAISY NYOKABI WANG'ONDU) Tj T* -146.3553 0 Td ET
-Q
-Q
-q
-1 0 0 1 42 780.6898 cm
-q
-.168627 .423529 .690196 rg
-BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL 132.7473 0 Td (Content Marketer | Content Strategist | Social Media Manager) Tj T* -132.7473 0 Td ET
-Q
-Q
-q
-1 0 0 1 42 769.6898 cm
-q
-.443137 .501961 .588235 rg
-BT 1 0 0 1 0 1.5 Tm /F1 7.5 Tf 9 TL 95.71155 0 Td (Nairobi, Kenya | 0706 285 433 | daisywangondu@gmail.com | LinkedIn: www.linkedin.com/in/daisywangondu) Tj T* -95.71155 0 Td ET
-Q
-Q
-q
-1 0 0 1 42 765.1898 cm
-q
-1.5 w
-1 J
-.101961 .211765 .364706 RG
-n 0 0 m 511.2756 0 l S
-Q
-Q
-q
-1 0 0 1 42 749.1898 cm
-q
-.101961 .211765 .364706 rg
-BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (PROFESSIONAL SUMMARY) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 747.1898 cm
-q
-.5 w
-1 J
-.168627 .423529 .690196 RG
-n 0 0 m 511.2756 0 l S
-Q
-Q
-q
-1 0 0 1 42 697.6898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 0 40 Tm /F1 7.5 Tf 9.5 TL .648189 Tw (Results-driven Content Marketer and Digital Content Professional with over 7 years of experience helping brands grow through content strategy, social) Tj T* 0 Tw .111652 Tw (media management, community building and creative production. Proven ability to plan and execute multi-platform content \(Instagram, Facebook, TikTok,) Tj T* 0 Tw .407116 Tw (Pinterest\), craft compelling brand stories, and manage engaged online communities. Combines strategic thinking with hands-on creative skills in graphic) Tj T* 0 Tw 1.803123 Tw (design, short-form video editing and day-to-day digital marketing execution. Experienced across digital marketing agencies, retail, real estate and) Tj T* 0 Tw (community organisations.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 681.6898 cm
-q
-.101961 .211765 .364706 rg
-BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (CORE COMPETENCIES) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 679.6898 cm
-q
-.5 w
-1 J
-.168627 .423529 .690196 RG
-n 0 0 m 511.2756 0 l S
-Q
-Q
-q
-1 0 0 1 42 668.1898 cm
-q
-BT 1 0 0 1 0 2 Tm 9.5 TL /F2 7.5 Tf .101961 .12549 .172549 rg (Content Marketing & Strategy:) Tj /F1 7.5 Tf ( Content Strategy \177 Content Planning & Calendars \177 Brand Storytelling \177 Campaign Content \177 Copywriting) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 648.1898 cm
-q
-BT 1 0 0 1 0 11.5 Tm 9.5 TL /F2 7.5 Tf .101961 .12549 .172549 rg (Social Media & Community:) Tj /F1 7.5 Tf ( Social Media Management \177 Community Management \177 Audience Engagement \177 Social Customer Care \177 Instagram,) Tj T* (Facebook, TikTok, Pinterest) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 637.6898 cm
-q
-BT 1 0 0 1 0 2 Tm 9.5 TL /F2 7.5 Tf .101961 .12549 .172549 rg (Creative Production:) Tj /F1 7.5 Tf ( Graphic Design \177 Short-Form Video Editing \177 Reels & Visual Content \177 Creative Direction) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 627.1898 cm
-q
-BT 1 0 0 1 0 2 Tm 9.5 TL /F2 7.5 Tf .101961 .12549 .172549 rg (Digital & Administrative Support:) Tj /F1 7.5 Tf ( Virtual Assistance \177 Digital Organisation \177 Research \177 Generative AI & Prompt Engineering) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 616.6898 cm
-q
-BT 1 0 0 1 0 2 Tm 9.5 TL /F2 7.5 Tf .101961 .12549 .172549 rg (Leadership & Collaboration:) Tj /F1 7.5 Tf ( Team Leadership \177 Creative Team Coordination \177 Community Building \177 Stakeholder Communication) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 600.6898 cm
-q
-.101961 .211765 .364706 rg
-BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (PROFESSIONAL EXPERIENCE) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 598.6898 cm
-q
-.5 w
-1 J
-.168627 .423529 .690196 RG
-n 0 0 m 511.2756 0 l S
-Q
-Q
-q
-1 0 0 1 38.4378 586.6898 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 0 cm
-q
-BT 1 0 0 1 0 1.5 Tm 10 TL /F2 8.5 Tf .101961 .12549 .172549 rg (Founder & Brand Strategist) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.2 0 cm
-q
-.443137 .501961 .588235 rg
-BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL 125.355 0 Td (Present) Tj T* -125.355 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 42 577.6898 cm
-q
-.168627 .423529 .690196 rg
-BT 1 0 0 1 0 1.5 Tm /F3 7.5 Tf 9 TL (The BotaniSoul) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 557.6898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 11.5 Tm /F1 7.5 Tf 9.5 TL (\177 Founded and developed The BotaniSoul, a plant-powered wellness and lifestyle brand focused on natural self-care, botanical products, plants and) Tj T* (conscious living. Lead the brand's creative direction, product development, digital presence and customer experience.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 547.3898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Developed and positioned a distinctive brand identity within the natural wellness and botanical lifestyle space.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 537.0898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Created and developed plant-based wellness and personal care products, including herbal hair oils and botanical self-care solutions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 526.7898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Produced engaging visual content, product photography, videos and educational content to build brand awareness and community.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 516.4898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Managed product development, packaging concepts, customer engagement and brand storytelling.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 506.1898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Built experience in entrepreneurship, digital marketing, e-commerce, creative strategy and community building.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 495.8898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Participated in markets and physical selling opportunities to introduce products directly to customers and gather consumer insights.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 38.4378 485.0898 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 0 cm
-q
-BT 1 0 0 1 0 1.5 Tm 10 TL /F2 8.5 Tf .101961 .12549 .172549 rg (Media Team Lead & Content Strategist) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.2 0 cm
-q
-.443137 .501961 .588235 rg
-BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL 71.5725 0 Td (January 2026 \226 Present) Tj T* -71.5725 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 42 476.0898 cm
-q
-.168627 .423529 .690196 rg
-BT 1 0 0 1 0 1.5 Tm /F3 7.5 Tf 9 TL (International Christian Centre \(ICC-Meru\) | Media Team Lead / Volunteer) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 465.5898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Lead the Media Team in planning and executing creative and digital communication activities for community programmes and events.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 455.2898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Shape content strategy and develop engaging visual and video content that strengthens community engagement and storytelling.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 444.9898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Coordinate creative contributors and foster collaboration across media and creative volunteers.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 434.6898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Provide creative direction, content planning and media coverage support for organisational activities.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 424.3898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Build team capacity by mentoring volunteers and encouraging active participation in media projects.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 38.4378 413.5898 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 0 cm
-q
-BT 1 0 0 1 0 1.5 Tm 10 TL /F2 8.5 Tf .101961 .12549 .172549 rg (Content Strategist & Social Media Manager) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.2 0 cm
-q
-.443137 .501961 .588235 rg
-BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL 57.8175 0 Td (January 2023 \226 March 2026) Tj T* -57.8175 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 42 404.5898 cm
-q
-.168627 .423529 .690196 rg
-BT 1 0 0 1 0 1.5 Tm /F3 7.5 Tf 9 TL (Solid Charm Bridal Store) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 384.5898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 11.5 Tm /F1 7.5 Tf 9.5 TL (\177 Developed and executed social media and content strategies that increased brand visibility and audience engagement across Instagram, Facebook) Tj T* (and related platforms.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 374.2898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Managed day-to-day content creation, scheduling and community interactions while maintaining a consistent brand visual identity.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 363.9898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Planned and delivered campaign content and ongoing brand communication that supported business objectives.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 353.6898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Handled social media customer care and online community management, improving response quality and customer experience.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 343.3898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Provided virtual administrative support and coordinated digital business activities to ensure smooth online operations.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 38.4378 332.5898 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 0 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 0 1.5 Tm /F2 8.5 Tf 10 TL (Content Manager | Virtual Assistant | Social Media Manager) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.2 0 cm
-q
-.443137 .501961 .588235 rg
-BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL 44.0625 0 Td (October 2017 \226 December 2022) Tj T* -44.0625 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 42 323.5898 cm
-q
-.168627 .423529 .690196 rg
-BT 1 0 0 1 0 1.5 Tm /F3 7.5 Tf 9 TL (Jaylifeandstyle Digital Marketing Agency) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 313.0898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Supported digital marketing activities for clients across multiple industries, managing content and social media presence.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 302.7898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Planned, created and scheduled social media content aligned with client brand guidelines and marketing objectives.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 292.4898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Managed audience interactions and provided social media customer care, strengthening client-community relationships.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 282.1898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Coordinated digital content production to boost online brand visibility and engagement for agency clients.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 271.8898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Delivered virtual administrative support that improved coordination of day-to-day digital marketing operations.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 38.4378 261.0898 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 0 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 0 1.5 Tm /F2 8.5 Tf 10 TL (Graphic Designer | Content Strategist | Social Media Manager) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.2 0 cm
-q
-.443137 .501961 .588235 rg
-BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL 109.5 0 Td (2021 \226 2024) Tj T* -109.5 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 42 252.0898 cm
-q
-.168627 .423529 .690196 rg
-BT 1 0 0 1 0 1.5 Tm /F3 7.5 Tf 9 TL (Square Meter Consultants) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 241.5898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Designed visual content and graphics that supported brand communication and marketing campaigns.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 231.2898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Created and implemented content strategies for social media and digital platforms aligned with business goals.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 220.9898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Managed social media content to ensure consistent brand messaging and strengthened the company\222s digital presence.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 210.6898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Combined graphic design, content strategy and social media management to deliver cohesive marketing communication.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 38.4378 199.8898 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 0 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 0 1.5 Tm /F2 8.5 Tf 10 TL (Valuation Department Intern) Tj T* ET
-Q
-Q
-q
-1 0 0 1 367.2 0 cm
-q
-.443137 .501961 .588235 rg
-BT 1 0 0 1 0 2.5 Tm /F1 7.5 Tf 10 TL 51.975 0 Td (October 2016 \226 January 2017) Tj T* -51.975 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 42 190.8898 cm
-q
-.168627 .423529 .690196 rg
-BT 1 0 0 1 0 1.5 Tm /F3 7.5 Tf 9 TL (Knight Frank Kenya) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 180.3898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Supported the Valuation Department with research, documentation and professional administrative tasks.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 170.0898 cm
-q
-.101961 .12549 .172549 rg
-BT 1 0 0 1 8 2 Tm /F1 7.5 Tf 9.5 TL (\177 Gained foundational experience in a corporate environment, developing strong skills in communication, organisation and teamwork.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 154.0898 cm
-q
-.101961 .211765 .364706 rg
-BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (EDUCATION) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 152.0898 cm
-q
-.5 w
-1 J
-.168627 .423529 .690196 RG
-n 0 0 m 511.2756 0 l S
-Q
-Q
-q
-1 0 0 1 38.4378 140.0898 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 0 cm
-q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .101961 .12549 .172549 rg (Bachelor of Real Estate \227 University of Nairobi) Tj T* ET
-Q
-Q
-q
-1 0 0 1 338.4 1 cm
-q
-.443137 .501961 .588235 rg
-BT 1 0 0 1 0 1.5 Tm /F1 7.5 Tf 9 TL 50.3775 0 Td (Second Class Honours, Upper Division) Tj T* -50.3775 0 Td ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 42 128.5898 cm
-q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .101961 .12549 .172549 rg (Kenya Certificate of Secondary Education \227 Materi Girls High School) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 112.5898 cm
-q
-BT 1 0 0 1 0 2 Tm 11 TL /F2 9 Tf .101961 .211765 .364706 rg (PROFESSIONAL TRAINING & CERTIFICATIONS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 110.5898 cm
-q
-.5 w
-1 J
-.168627 .423529 .690196 RG
-n 0 0 m 511.2756 0 l S
-Q
-Q
-q
-1 0 0 1 42 99.08976 cm
-q
-BT 1 0 0 1 8 2 Tm 9.5 TL /F1 7.5 Tf .101961 .12549 .172549 rg (\177 ) Tj /F2 7.5 Tf (Virtual Assistant Certificate) Tj /F1 7.5 Tf ( \227 ALX Africa) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 88.78976 cm
-q
-BT 1 0 0 1 8 2 Tm 9.5 TL /F1 7.5 Tf .101961 .12549 .172549 rg (\177 ) Tj /F2 7.5 Tf (Generative AI: Prompt Engineering Basics) Tj /F1 7.5 Tf ( \227 Coursera) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 72.78976 cm
-q
-.101961 .211765 .364706 rg
-BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (TECHNICAL SKILLS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 42 70.78976 cm
-q
-.5 w
-1 J
-.168627 .423529 .690196 RG
-n 0 0 m 511.2756 0 l S
-Q
-Q
-q
-1 0 0 1 42 49.78976 cm
-q
-BT 1 0 0 1 0 11.5 Tm 9.5 TL /F1 7.5 Tf .101961 .12549 .172549 rg (Canva \177 CapCut \177 Meta Business Suite \177 Instagram \177 Facebook \177 TikTok \177 Pinterest \177 Google Workspace \177 Google Sheets \177 Microsoft Office \177 Content) Tj T* (Planning Tools \177 Generative AI Tools \177 Social Media Scheduling & Management) Tj T* ET
-Q
-Q
- 
-
-Q
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.443137 0.501961 0.588235 rg
-BT
-/F1-0 7.5 Tf
-9 TL
-ET
-1 1 1 rg
-n
-42 761.8898 511.2756 12 re
-f*
-0.443137 0.501961 0.588235 rg
-BT
-1 0 0 1 42 764.3898 Tm
-(Meru\054 Kenya \174 0706 285 433 \174 daisywangondu\100gmail\056com \174 LinkedIn\072 www\056linkedin\056com\057in\057daisywangondu) Tj
-T*
-ET
-Q
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260904184110+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260904184110+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Oblique
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4461
 >>
+stream
+Gau`W>BAQ-&q801^m")UYo/\8;!QMlA_Br@>:h.<BCZ+fOG%,$@!T#XRJuuf$P4F0d?O#h9f%c=OTbFTmC*JE-8#"&bJ1_*+_NV%n\QW]6Y:CKGH;:B?'4[D_d=MPr6C<igjru.qL^so!>d<!AIj)FYoMMAHX1*gHQBTG,OsaqXCdq<[)m+fM`\lFb/O7f[,'tLm;BBBf4R9-4s*OsJ!-9cDa+cY-KOp[c/ha12s4Os-F<`7fmh(WolcG_2u$=:Xl$/"f'E&MQWP9+h/rq?l4$SB/_M*iRnX)b1g>jgFtC,_C=,Kp9NdaGCDoFCPf;]*U-G*D0hp>Q-RjF&'cs7R\Rn%'E-"Pd/2$"eXB@''DbubW;=[n-q&ehJEr2F$QMe2AeJbr`2"(EEE'%+(kO`g)DCCRb"$[s$=h(=OC(&kYoXgn$9E.A,b*2KS%2U5\Zi;XYPR!L%<cI/XLQBZOKYNW3k@Z<,^[VjgIcTJ.b&^&&b.Hssm96sG'K(,ibJ1b.:\U1t6M^82FD]cQghmXO$-9Jcl->s/oP4QYd/dDXK&aK?gPbTD3k;pA?BOK=lg*O.T3B9=XZC@qeV-ooJbTGGH3:W/lYNKRJb<h\rnQ#&e(T`gr,Do/n+8n>14(@gpFOF<1cb5=rkq./($ILHaZ3_t'Z+$\]Sjb!,mbA2I/(q7,nWplX%V$&`X*5u_Z#QtbZX-aZ=H8>_Zb=A@B"o2@e!.?ALt.+P'HeSM9;Ob#t\Y/BcFNX7*E%+?It=fY%2"DA7D\!aV.cc[E:h-Y/s&N"!?ER,'u&>.;2,D=SS;NJufa1NB5Jm*oI."+AkBkGsD1qH!/;2$B2esiT##4ift,Fg[QO_;S%\Kl@`D=O$*d=GX?$?E<\Y.i^/r_^f&rL%ZeX]8\b34P/_U8U:_'G!b2hh?%Ac7'.J[aN3I7%5C=YA\<.XLiAM(6Y^1g1'5]SoJN4l&ECK,M-///oKS9ku7ihd>i?;<q7SE/L"LbF]X)0q8.C%23^'MOc9+e)"dKWM&B7bZm;f,d3Y"qu9$9s?=LW2s+$f7O-.IB8V;;`,Q`?IlgmKZ0J:Dt?f.A.1MKH%^?TH1bL,4'=.D\4X9a:jI"9!"nsm.KaiPcS%V(u=&0alrHpDEJlqN$dS!j*TShSF7+$H@;i2<o0bZI2%':[8C=r5>V7p6"@76Ti[7r?!I=Q2(X="nRh#iPAdnq(?b`Y'rj,\1gm#<QltiWP6!n%J7#4"%]Cc>.\[JtAr1oKB`/poW,"51Vf0+!R)6;u2qt')_N-D,<4pc6Tr-PI9&f/%h7PMeHj,L>RHDJBI(`A]R'6WW*RU7R.g>c_;]K_L&2@kIBWcO9lKg6G1re;gS?4NqV1K_.0$ttH<[,`k,0X,F0]O-]jOJUs!3qRB;Nd:pO0Yj9k;eTkHtB(i:;9bl^KY,P$]iBU?ZEk'bQ/DiRRIg%<29Cn*iGsT&5":Z&Nqf?cqE2\J4saN5UH)hlF0D%ZMZ#d$+q*K]o#^H*iK/@YWMEnG-1cCoY4kbB5t6<O\CcXTFW6D0DKt8k_bUrW4Gc2*=3<FeLi:X,gMg\kUKt<qT+sHn1c`K4W`GDrK^a;IXbmIr5[XgIKCg'h":=.?r2=L^'Xk;E80cDDSPPlQFs4sO_n>r$L_dgEN7jL%L1TTi);*@qE&3G6=_6cj2`@TDM;CR9"X7iNdh"D)]WLk_,4*^7+`(5*R5Zj+(.LaDO%CD6%5m)P2!1YaQpE,dri&K?.\U_aiKm#2!7f""c^pW*E^VA3.9]6ZjNk#q0O[!7/=c&4H2M/5Xb*G<@HdoP51uQOa)V<iKIn&a1s,;q,kF`h5BRhjU?8a]I]1]PX(gP0gJdVK))ANjlqF\aCRO00W3X?jQ,;lRCiQ=$PSSZ/:loT+K$fJ$UA"h\,;I)I+?iYI\PHDW[Q/r8Rs)0mP2]UFk&$hO%*"Q`dNX8'k4mfr,Z@ePUI.N7kO43O?%mWk"5N9=eY&5.Dd(1G2VLr$>n[X57.c7Sk1-;9>C3"oomb9'jN5Q*b_hs8Do7kp4sP7V=4IH"ITDd-&Wl'qNCE:#TdgICVgMV_B@T-oH@T9Y-T<1TUK]>;!9:G8b1`BLs]lb;B\+QBOk]+V"A)7<>MUo+m_@'^RE1EI0M!Wh+WmYXK9*bAJJ5<ldH>1mSR*e[.%1NXt6l]i3LddVRP)T^KHoSrcLO#OHq7+OCKD>bT\ld-5jqIG!gRBfI8k3`?%)ip!C;%WAqs-*?)?O$k<i71etU%,FOUcR?Be\]B)*$q'3L&+fT0>6GV6+:-jTAaiYTF"$%.E?<,0#-pU^i:/<We2%P8W0@PYTe-)Vs#86P/$&\#l$k&>ZF`V<pmna`8U^+GNWq%YL1E*HRdrKcqRfe.WP*a>i:#r/2%SA)I?Lfkf%PlOA2-S"%[4!lo13%7A2B&,mZT.jU1\lfBReJ'&$8;o^'LV?CFQi*V*=S>aaTP`YkugD/j-087ZW\-M*!*]m:I-CpC6^Gn&XP6o&dB<F(!FGl#u&fQPreBnH-Q1\QS`/Uo@%_ghPsY%:!N6&&R&*./DLQ/$^6a>)fYdk+R^;#<LFVb'okWr@fDI?>fmRuOe`Vc8falP3i]0!AM!bT"*KCb%R?b-$4UmOV7YG;Q+0iRHT5NUiGbLq%5KKX1Ji1u$/0!n%R?4gY>/!>4-'GAOMu360S2\DUX3+Jj\=qFTXlmDWM7@o.;A!-XD(RP8@\\NI9oiillTGLC:48+)Rfh[>B@BYe[OA'RaY:pk?<n5YQgN$;gG1Dm'QIhG,?JA5*R!)YK0kjIBXM_M-3ag\,-8CYj_"jg;)g>6@QX!<Q:.Nn4H`8?j`G6A2Q83M?!bNnpIo<dX44R/]4X+W1*Z2dlZTb0af8Wdp#bq);]PoA";0D#,U,tD$C/T#[iLuKQ\^sgMj$_aOrD80UIma-&3Ob7H$W/?f!?u-"IE:B5E?79=N$fqY'WdYM@/Pc#*LeKp*-Fmo=&WnZiE:U=dko&d_QK'kUr\A-nT^Sp3M"K2m,?ZFbV25(Ss7AltNt:A3F7X30kj]!CeI<tX"<:`>^:"MSC,06!8<oX@S*g78=*:_d/m,W1+MeVUslUrm>=@haUC\>mINTfE1KPi5#>,m<X`.jG(,`4L1:FdZuG8B'?,e15bC%G7,tV92,=[ndba+S)!`'YBC2*4Ba-3``:oHDOh!'b;F`e$<7Z\'CD^<pCpM0r:rA<)`$r[p'U@o6mJ$=1ZDN*:CA\_49B3.CN-0\A>jr%"<R'_*9f5;mYT"dG"eoa`21CQLP5K']?XBLFcJ]'4gCkUE9Sb(&ZFrf]G#/*=Sk;=\TCYGobT?3A#XZ&<>dC4><K$cbXsjE<Q.mDsn%.]b7N>_;QlITb!Dt.ORCul<]5;P>\;+*@\B[/^RcY$s[eoUE)D0MgE(FaX_SrGrK:-QK?n$5c^f&\!CWkfG2E84CPPH@G\*=!I3)(i=7s7OCF<WY-Lqo6FFeFq9[Ajb)b$KZ/qm0(uTgT.1a(pLs8Y#I\=^5WpIO93lU5jED'64EI.M`2,dmb0oibA\HO&6aZ\EmCQ.HZ&?FT-rl.]h)AXjl-<n-lL)O+o<\s%^);77Sp65mhjBj%'K@P-jLaQE_T\5CU]ihbW(`p4!1t\LmF1CL4>6kU#]@DD55id;V,:A#QGVD!g`Ij++>XN6cajuJgZ]YQd48GjH'7WClA?6f6<_QA42/%u^dt?hLYeh&(#A?,B?\,Pc+,dI4Boo;V4(gNVP8^G%s1^C?ZE8[^6f[biO('5C]>XcMoLpL6[e:$/T0qD\+r:gbO6V7C;uG>STK`Tca5!\;S]$[N58eW2I,SZ3Glaa=q,m=pa%0q8fF0q:!N=<jPrUkF1F[W>?/:T2,`3h:fAf[9#a,Jb1EL9DLNs+s#lJ++0io"XUbW(>L;581Z\T]mp$K0QoR5'-YjqOUd;V"S]kMqf?%1\Fc[si83rbbWDeESN]jpJY7\SQDE'%N(md]f?=<67Q1j@'.&FhT>-ar1`ru0&'!/13ac[C0AVVAE1XoY1EK2UWk;*^ffIhJHr@d%UB6kG@)Zss><S0U5!4PGHUp<1Kjhe5FN]po[m;a/7KAnWeC1ns&5+!OQ_]nRJ8:+gf#.Id_kMbLg\&<5ktCr^7Ue^h#9.^Erg`5Ys$g&5l11V('7mIg#JCiV7-g!Ft%hKE'K@J4t)*iXGPJR8L\k.n$SQNk2q+NohSRKKk9gCpoVkI(o<8tQQrrZK+(%(A&2Ag!poHNt;#EhrJsRM3[$N$c@"?dN>:aTDo-l-XF9p%U.eSW-.3DBPm\aRo)blDcSAqKCu.qu"`.$[96u*7NX@U;:V-1SWhAeR*i_7Tk2O*P+=)c?.5`c$6hq*<>c5hBc(7WUBhcJ",m-jN#;p=9OT\%L#_$)Q\<I>r"N"Uu'=8!%?tY\Xc)1Zc^l\b\!+8HH-HP-E0)#?FittiMXZOcr'%#&KBRP+8ud%Lr4'~>endstream
 endobj
 xref
 0 10
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000415 00000 n 
-0000015782 00000 n 
-0000015889 00000 n 
-0000015996 00000 n 
-0000016108 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000446 00000 n 
+0000000649 00000 n 
+0000000717 00000 n 
+0000000997 00000 n 
+0000001056 00000 n 
 trailer
 <<
+/ID 
+[<85ac184c36913bd690a482de6931b5d5><85ac184c36913bd690a482de6931b5d5>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 10
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-16223
+5608
 %%EOF

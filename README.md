@@ -12,9 +12,7 @@ daisy-portfolio/
 ├── js/
 │   └── main.js             ← Navbar, mobile menu, smooth scroll
 ├── downloads/
-│   ├── Daisy_Wangondu_Resume.pdf   ← Polished resume (PDF)
-│   ├── Daisy_Wangondu_Resume.docx  ← Updated resume (Word)
-│   └── Daisy_Wangondu_CV (1).docx  ← Updated CV
+│   └── Daisy_Wangondu_CV.pdf       ← Current CV (PDF)
 ├── assets/                 ← (optional) place profile photo here
 └── README.md
 ```
@@ -45,4 +43,4 @@ Simply double-click `index.html` or drag it into a browser.
 - Email: daisywangondu@gmail.com  
 - WhatsApp / Phone: 0706 285 433  
 - LinkedIn: https://www.linkedin.com/in/daisywangondu  
-- Location: Meru, Kenya
+- Location: Nairobi, Kenya
